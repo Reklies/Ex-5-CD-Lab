@@ -1,10 +1,9 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date:13.05.25
-```
+Date:13.05.25
 NAME : REKLIES J
 REG.NO :212223110041
-```
+
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
